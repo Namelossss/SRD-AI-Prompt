@@ -49,7 +49,7 @@
 
 <!-- 拖入 Issue 获取 user-attachments 链接后替换下方 -->
 
-https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/41399b8a-ddff-477c-9a71-5e974897a0d7
+https://github.com/user-attachments/assets/41399b8a-ddff-477c-9a71-5e974897a0d7
 
 ### 界面截图
 
