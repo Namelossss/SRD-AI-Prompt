@@ -13,7 +13,7 @@
 > 📱 扫码加入微信群，获取最新模板上线通知、优惠活动与技术交流。
 
 <p align="center">
-  <img src="./screenshots/wechat-qrcode.png" alt="微信群聊二维码" width="200" />
+  <img src="./screenshots/wechat-qrcode.jpg" alt="微信群聊二维码" width="200" />
   <br/>
   <em>▲ 微信扫码加入交流群（如二维码过期请添加微信 zwl568633995）</em>
 </p>
